@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.raunak.focus5",
+    "sha256_cert_fingerprints": ["E0:F0:54:E2:F9:4C:36:C6:18:DA:B1:18:03:C4:A0:FE:B2:F6:3D:CA:CC:DC:BA:E0:16:36:82:23:A3:57"]
+  }
+}]
